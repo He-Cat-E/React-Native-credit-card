@@ -1,0 +1,19 @@
+{
+  "name": "React Native Credit Card Demos",
+  "description": "Demonstrates the various demos of React Native Credit Card",
+  "slug": "react-native-credit-card-demos",
+  "sdkVersion": "10.0.0",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "primaryColor": "#6631BA",
+  "iconUrl": "https://cdn.rawgit.com/sonnylazuardi/react-native-credit-card/master/preview.png",
+  "loading": {
+    "iconUrl": "https://cdn.rawgit.com/sonnylazuardi/react-native-credit-card/master/preview.png",
+    "hideExponentText": false
+  },
+  "packagerOpts": {
+    "assetExts": [
+      "ttf"
+    ]
+  }
+}
